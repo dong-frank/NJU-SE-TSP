@@ -1,0 +1,4 @@
+interface:
+  display_name: "Advance TSP Meetings"
+  short_description: "Turn TSP launch meeting notes into proposal progress."
+  default_prompt: "Process these TSP meeting notes and convert them into meeting outputs, proposal updates, gaps, next actions, and Phase 2 evidence."
